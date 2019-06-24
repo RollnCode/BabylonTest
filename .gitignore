@@ -1,0 +1,9 @@
+.DS_Store
+BabylonTest.xcodeproj/project.xcworkspace/xcuserdata
+BabylonTest.xcodeproj/xcuserdata
+BabylonTest.xcworkspace/xcuserdata
+Pods
+Build
+Gemfile.lock
+*.ipa
+README.md
